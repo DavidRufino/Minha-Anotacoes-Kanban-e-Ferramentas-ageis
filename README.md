@@ -2,7 +2,7 @@
 
 ## Introdução ao Kanban
 
-O Kanban é uma metodologia visual para gerenciar fluxos de trabalho e otimizar processos. Abaixo, apresentamos um resumo de como implementar o Kanban, baseado em Kniberg e Skarin (2009).
+O Kanban é uma metodologia visual para gerenciar fluxos de trabalho e otimizar processos. Abaixo, um resumo de como implementar o Kanban, baseado em Kniberg e Skarin (2009).
 
 ### Princípios do Kanban
 
